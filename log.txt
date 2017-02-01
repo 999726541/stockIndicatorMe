@@ -1,0 +1,10 @@
+goog
+time data '2015-06' does not match format '%Y-%m-%d'
+goog
+time data '2015-06' does not match format '%Y-%m-%d'
+GOOG
+time data '2015-06' does not match format '%Y-%m-%d'
+GOOG
+time data '2016-01' does not match format '%Y-%m-%d'
+GOOG
+time data '2016-01' does not match format '%Y-%m-%d'
